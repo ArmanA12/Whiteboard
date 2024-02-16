@@ -8,4 +8,4 @@ Features
 ![Whiteboard Image](https://raw.githubusercontent.com/ArmanA12/Whiteboard/master/whiteboard.png)
 
 # Tech Stack
-React, Redux toolkit, Rough.ja, Canvas Api, Node.js & Socket.io
+React, Redux toolkit, Rough.js, Canvas Api, Node.js & Socket.io
